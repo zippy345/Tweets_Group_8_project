@@ -1,10 +1,8 @@
-# DSC-PHASE-4-GROUP-7-
+# DSC-PHASE-4-GROUP-7
 # Twitter Sentiment Analysis
 ## STEP 1: Business understanding
 ### Project Overview
-Sentiment analysis, also known as opinion mining, is a Natural Language Processing (NLP) technique used to automatically determine the emotional tone behind textual content. Companies leverage sentiment analysis of tweets to get a sense of how customers are talking about their products and services, get insights to drive business decisions and identify product issues and potential PR crises early on.
-
-A 2023 systematic review published in Information Processing & Management confirms that social media analytics have become a cornerstone of business intelligence, directly enabling data-driven decisions in product innovation and competitive positioning. This project applies sentiment analysis to tweets about Apple and Google products, aiming to classify and analyze public opinion. The insights will help technology companies identify emerging issues, leverage positive feedback, and make strategic decisions based on real-time customer sentiment.
+Sentiment analysis, also known as opinion mining, is a Natural Language Processing (NLP) technique used to automatically determine the emotional tone behind textual content. Companies leverage sentiment analysis of tweets to get a sense of how customers are talking about their products and services, get insights to drive business decisions and identify product issues and potential PR crises early on. This project applies sentiment analysis to tweets about Apple and Google products, aiming to classify and analyze public opinion. The insights will help technology companies identify emerging issues, leverage positive feedback, and make strategic decisions based on real-time customer sentiment.
 
 ### Problem Statement
 Apple and Google face the challenge of managing customer opinions expressed on social media. Negative sentiment about products or services can quickly harm brand perception, reduce customer loyalty, and impact sales.Without an automated solution, emerging product issues or trending complaints may go unnoticed, leading to reputational risks and missed market opportunities.This project aims to address this problem by using Natural Language Processing (NLP) to classify and analyze tweets, enabling Apple and Google to respond promptly, leverage positive feedback and make data-driven strategic decisions.
@@ -105,23 +103,23 @@ This bar chart displays the features that most impact sentiment.
 
 
 ### PROJECT COLLABORATORS
-1. Zipporah Muriithi(https://github.com/zippy345)
-2. Vincent Toroitich(https://github.com/Limo-Vincent)
-3. Royal Mbugua(https://github.com/Kihiuroyal)
-4. Grace Wangui(https://github.com/Marionmengich)
-5. Marion Mengich(https://github.com/Marionmengich)
+1. [Zipporah Muriithi](https://github.com/zippy345)
+2. [Vincent Toroitich](https://github.com/Limo-Vincent)
+3. [Royal Mbugua](https://github.com/Kihiuroyal)
+4. [Grace Wangui](https://github.com/wangui333)
+5. [Marion Mengich](https://github.com/Marionmengich)
 
 ### How to Run the Project
-Clone the repository and Run the notebook: ([sentiments.ipynb](https://github.com/zippy345/Tweets_Group_8_project/blob/master/sentiments.ipynb) 
+Clone the repository and Run the notebook: [sentiments.ipynb](https://github.com/zippy345/Tweets_Group_8_project/blob/master/sentiments.ipynb) 
 
 
 ### Navigating the Repository
 The repository contains:
 
-* Jupyter Notebook: ([sentiments.ipynb](https://github.com/zippy345/Tweets_Group_8_project/blob/master/sentiments.ipynb) (data analysis, modeling, visualizations)
-* Presentation Slides: PDF file ( [Twitter Sentiment Analysis Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf)
-* Dataset: ([tweet_product_company.csv](https://github.com/zippy345/Tweets_Group_8_project/blob/master/judge-1377884607_tweet_product_company.csv)
-* Data Report: ([Twitter Sentiment Analysis using Natural Language Processing](https://github.com/zippy345/Tweets_Group_8_project/blob/master/Twitter%20Sentiment%20Analysis%20using%20Natural%) 
+* Jupyter Notebook: [sentiments.ipynb](https://github.com/zippy345/Tweets_Group_8_project/blob/master/sentiments.ipynb) (data analysis, modeling, visualizations)
+* Presentation Slides: PDF file [Twitter Sentiment Analysis Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf)
+* Dataset: [tweet_product_company.csv](https://github.com/zippy345/Tweets_Group_8_project/blob/master/judge-1377884607_tweet_product_company.csv)
+* Data Report: [Twitter Sentiment Analysis using Natural Language Processing](https://github.com/zippy345/Tweets_Group_8_project/blob/master/Twitter%20Sentiment%20Analysis%20using%20Natural%) 
 * README.md: Project overview 
 * .gitignore: Specifies files to ignore in version control
 
