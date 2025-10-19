@@ -1,4 +1,4 @@
-# DSC-PHASE-4-GROUP-7
+# DSC-PHASE-4-GROUP-8
 # Twitter Sentiment Analysis
 ## STEP 1: Business understanding
 ### Project Overview
@@ -117,7 +117,7 @@ Clone the repository and Run the notebook: [sentiments.ipynb](https://github.com
 The repository contains:
 
 * Jupyter Notebook: [sentiments.ipynb](https://github.com/zippy345/Tweets_Group_8_project/blob/master/sentiments.ipynb) (data analysis, modeling, visualizations)
-* Presentation Slides: PDF file [Twitter Sentiment Analysis Presentation](https://github.com/Machinga1234/DSC-PHASE-3-GROUP-2-/blob/main/The%20H1N1%20Flu%20Vaccine%20Uptake%20Prediction%20Presentation%20(1).pdf)
+* Presentation Slides: PDF file [Twitter Sentiment Analysis Presentation](https://github.com/zippy345/Tweets_Group_8_project/blob/master/tweet_sentiment.pdf)
 * Dataset: [tweet_product_company.csv](https://github.com/zippy345/Tweets_Group_8_project/blob/master/judge-1377884607_tweet_product_company.csv)
 * Data Report: [Twitter Sentiment Analysis using Natural Language Processing](https://github.com/zippy345/Tweets_Group_8_project/blob/master/Twitter%20Sentiment%20Analysis%20using%20Natural%) 
 * README.md: Project overview 
