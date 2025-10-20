@@ -1,4 +1,4 @@
-# DSC-PHASE-4-GROUP-7
+# DSC-PHASE-4-GROUP-8
 # Twitter Sentiment Analysis
 ## STEP 1: Business understanding
 ### Project Overview
@@ -88,7 +88,7 @@ This bar chart displays the model comparison of our classification models.
 ![Metrics](Images/model_performance.png)
 
 2. Feature Importances - 
-This bar chart displays the features that most impact sentiment.
+This bar chart displays the features that most impact on sentiment.
 ![Features Importance](Images/feature_importance.png)
 
 ## STEP 6: Recommendations 
